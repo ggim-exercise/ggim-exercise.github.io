@@ -1,4 +1,4 @@
-# ggim-exercise: UN-GGIM WG-Disasters Task Group B
+# UN-GGIM WG-Disasters Task Group B
 
 NOTE: This web site is under development and not authoritative in any sense. 
 
