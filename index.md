@@ -49,4 +49,4 @@ UN-GGIM WG-Disasters Task Group B on Scenario-based Exercise
 - Until the GGIM Committee in 2021 (August in New York; TBD)
 
 # Outputs already delivered
-2020-03-18: [Task Group B Activity Report to WG-Disasters](https://hackmd.io/@hfu/20200318)
+2020-03-18: [Task Group B Activity Report to WG-Disasters](2020-03-18.md)
