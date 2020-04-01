@@ -22,15 +22,10 @@ This Task Group will cover the following function, among others, of the WG-Disas
 2. to improve the availability and accessibility of high-quality, timely, reliable and **interoperable** disaster risk and reduction geospatial information by **encouraging free and open data access** policies and reducing data security concerns towards supporting all phases of disaster risk reduction management at all levels of government and towards the successfull achievement of the 2030 Agenda for Sustainable Development.
 
 ## Task Group management
-### List of active member experts (TBD)
-#### United Nations Member States
-- Mr. Fujimura Hidenori (Japan / United Nations Vector Tile Toolkit)
-
-#### Internatioal bodies, private sector, academia, and others.
-- 
+### [List of active experts](https://github.com/ggim-exercise/ggim-exercise.github.io/wiki/List-of-active-experts)
 
 ### Task leader (TBD)
-The task group leader will manage the activities and membership of their assigned task group, in addition to provide reports to co-Chairs and wider WG-Disasters.
+The task group leader, Hidenori, will manage the activities and membership of their assigned task group, in addition to provide reports to co-Chairs and wider WG-Disasters.
 
 ### Name (TBD)
 UN-GGIM WG-Disasters Task Group B on Scenario-based Exercise
