@@ -43,5 +43,8 @@ UN-GGIM WG-Disasters Task Group B on Scenario-based Exercise
 ### Fixed life span (TBD)
 - Until the GGIM Committee in 2021 (August in New York; TBD)
 
+# Substantive inputs (WIP)
+We are accumulating [Substantive inputs](https://github.com/ggim-exercise/ggim-exercise.github.io/wiki/Substantive-inputs) from active members of our Task Group.
+
 # Outputs already delivered
 2020-03-18: [Task Group B Activity Report to WG-Disasters](2020-03-18.md)
